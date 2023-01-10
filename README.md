@@ -1,13 +1,6 @@
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/0a/fc/78/0afc78623f81c39a251255153e028479.gif">
-</div>
-
-</br>
-
-
 # Hello! I am Benni!
 
-### - I'm 20 years old Video Editor, Soda Enthusiast and Frontend Developer at times from Norway!
+### - I'm 20 years old Video Editor, Content Creaotr and Frontend Developer at times from Norway!
 
 ### - Learning :
 - ✨ Javascript and such
@@ -29,7 +22,7 @@
 
 
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+I'm not the kinda guy to use alot of socials, so just contact me on Discord.
 
 I only use Discord so far, so contact me!
 Name: **Benni#4739**
