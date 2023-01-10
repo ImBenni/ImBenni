@@ -1,6 +1,6 @@
 # Hello! I am Benni!
 
-### - I'm 20 years old Video Editor, Content Creaotr and Frontend Developer at times from Norway!
+### - I'm 20 years old Video Editor, Content Creator and Frontend Developer at times from Norway!
 
 ### - Learning :
 - ✨ Javascript and such
