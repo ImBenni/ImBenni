@@ -2,7 +2,7 @@
 
 I'm Benni, a front-end hobbyist and video creator for fun. Whenever I have some sparetime, I usually dab into making fun projects. 
 
-## 🛠 Coding
+## 🛠 Skills
 * HTML
 * CSS
 * JavaScript
