@@ -3,8 +3,7 @@
 I'm Benni, a front-end hobbyist and video creator for fun. Whenever I have some sparetime, I usually dab into making fun projects. 
 
 ## 🛠 Skills
-* HTML
-* CSS
+* Basic Web Development
 * JavaScript
 * Lua
 * Video Editing (Premiere Pro, After Effects)
