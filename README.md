@@ -20,9 +20,5 @@ If you want to reach out to me in any way, I have some socials that I sometime u
 - YouTube: [https://www.youtube.com/benniroblox}
 
 ## ⚡ Fun Facts
-- I despise brown cheese
-- I despise using money
-- I despise when things don't go the way I hoped it would go
-- I despise coffee
-- I love Virtual Reality
+- I do what i want
 
