@@ -15,8 +15,9 @@ For the time being I game alot, and work on personal game projects on Roblox. So
 ## 📬 Contact?
 You are free to contact me, here:
 
-- GitHub: [@ImBenni]
-- Discord: @imbenni
+- GitHub: `@ImBenni`
+- Discord: `@imbenni`
+- Email: `gromit@hotmail.no`
 
 ## ⚡ Fun Facts
 - I love working on computers! As in the HARDWARE side, give me the parts i need and I will happily create the computer for you :D
